@@ -1,5 +1,6 @@
 [minhtuan]
 192.168.2.102
+192.168.2.103
 
 [minhtuan:vars]
 ansible_user=vagrant
